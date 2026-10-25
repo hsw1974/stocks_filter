@@ -65,7 +65,7 @@ def tool_call(name: str, tools: dict = {}) -> dict[str, str]:
 
 
 def main():
-    print(f"this is main!")
+    print(f"this is main second!")
 
 
 if __name__ == "__main__":
